@@ -1,5 +1,5 @@
-# 김형모과 윤혜정의 결혼식 모바일 청첩장
-![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
+# 김형모와 윤혜정의 결혼식 모바일 청첩장
+<!--![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)-->
 
 ## 예식정보
 
